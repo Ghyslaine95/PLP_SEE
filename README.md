@@ -12,5 +12,4 @@ Division (÷)
 
 User-friendly interface (CLI or GUI depending on version)
 git clone https://github.com/Ghyslaine95/PLP_SEE.git
-cd calculator
-python calculator.py
+
